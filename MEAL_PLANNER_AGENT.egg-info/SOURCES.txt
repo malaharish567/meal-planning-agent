@@ -1,0 +1,6 @@
+setup.py
+MEAL_PLANNER_AGENT.egg-info/PKG-INFO
+MEAL_PLANNER_AGENT.egg-info/SOURCES.txt
+MEAL_PLANNER_AGENT.egg-info/dependency_links.txt
+MEAL_PLANNER_AGENT.egg-info/requires.txt
+MEAL_PLANNER_AGENT.egg-info/top_level.txt

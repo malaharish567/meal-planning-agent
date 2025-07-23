@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: MEAL-PLANNER-AGENT
+Version: 0.0.1
+Author: mala harish
+Author-email: malaharish567@gmail.com
+Requires-Dist: streamlit
+Requires-Dist: groq
+Requires-Dist: openai
+Requires-Dist: chromadb
+Requires-Dist: langchain-community
+Requires-Dist: langchain-core
+Requires-Dist: requests
+Requires-Dist: python-dotenv
+Requires-Dist: pandas
+Requires-Dist: spacy
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
