@@ -31,7 +31,7 @@ class RecipeService:
         url = f"{self.base_url}/{recipe_id}/information"
         params = {
             'apiKey': self.api_key,
-            'includeNutrition': False
+            'includeNutrition': True
         }
         
         try:
